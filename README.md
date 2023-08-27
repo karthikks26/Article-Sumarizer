@@ -1,8 +1,5 @@
-# React + Vite
+# Article Summarizer
+This project is About Article summarizer which is created using Article Extractor and Summarizer.
+Tech used-tailwindcss,redux toolkit,vite,npm,react-redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
