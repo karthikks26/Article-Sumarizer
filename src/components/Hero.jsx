@@ -8,10 +8,14 @@ const Hero = () => {
         <img src={logo} alt="sumarixer logo" className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://google.com")}
+          onClick={() =>
+            window.open(
+              "https://rapidapi.com/restyler/api/article-extractor-and-summarizer/"
+            )
+          }
           className="black_btn"
         >
-          GitHub
+          API
         </button>
       </nav>
       <h1 className="head_text">
